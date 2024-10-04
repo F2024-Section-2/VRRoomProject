@@ -91,39 +91,68 @@ crashlytics-build.properties
 ## git-lfs ##
 
 #Image
-*.jpg filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.gif filter=lfs diff=lfs merge=lfs -text
-*.psd filter=lfs diff=lfs merge=lfs -text
-*.ai filter=lfs diff=lfs merge=lfs -text
-*.tif filter=lfs diff=lfs merge=lfs -text
+*.jpg 
+*.jpg.meta
+
+*.jpeg
+*.jpeg.meta
+*.png 
+*.png.meta
+*.gif 
+*.gif.meta
+*.psd 
+*.psd.meta
+*.ai 
+*.ai.meta
+*.tif 
+*.tif.meta
 
 #Audio
-*.mp3 filter=lfs diff=lfs merge=lfs -text
-*.wav filter=lfs diff=lfs merge=lfs -text
-*.ogg filter=lfs diff=lfs merge=lfs -text
+*.mp3 
+*.wav 
+*.ogg 
+*.mp3.meta 
+*.wav.meta 
+*.ogg.meta 
 
 #Video
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.mov filter=lfs diff=lfs merge=lfs -text
+*.mp4
+*.mov
+*.mp4.meta 
+*.mov.meta 
 
 #3D Object
-*.FBX filter=lfs diff=lfs merge=lfs -text
-*.fbx filter=lfs diff=lfs merge=lfs -text
-*.blend filter=lfs diff=lfs merge=lfs -text
-*.obj filter=lfs diff=lfs merge=lfs -text
+*.FBX 
+*.fbx 
+*.blend
+*.obj
+*.FBX.meta 
+*.fbx.meta 
+*.blend.meta
+*.obj.meta
 
 #ETC
-*.a filter=lfs diff=lfs merge=lfs -text
-*.exr filter=lfs diff=lfs merge=lfs -text
-*.tga filter=lfs diff=lfs merge=lfs -text
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
-*.dll filter=lfs diff=lfs merge=lfs -text
-*.unitypackage filter=lfs diff=lfs merge=lfs -text
-*.aif filter=lfs diff=lfs merge=lfs -text
-*.ttf filter=lfs diff=lfs merge=lfs -text
-*.rns filter=lfs diff=lfs merge=lfs -text
-*.reason filter=lfs diff=lfs merge=lfs -text
-*.lxo filter=lfs diff=lfs merge=lfs -text
+*.a
+*.exr
+*.tga
+*.pdf
+*.zip
+*.dll
+*.unitypackage
+*.aif
+*.ttf
+*.rns
+*.reason
+*.lxo
+*.a.meta
+*.exr.meta
+*.tga.meta
+*.pdf.meta
+*.zip.meta
+*.dll.meta
+*.unitypackage.meta
+*.aif.meta
+*.ttf.meta
+*.rns.meta
+*.reason.meta
+*.lxo.meta
