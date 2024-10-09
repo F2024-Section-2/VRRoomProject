@@ -1,0 +1,17 @@
+Asset Links:
+
+Polyhaven
+
+Asteroids
+https://polyhaven.com/a/boulder_01
+
+Unity Asset Store
+
+Nebula Skybox
+https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503
+
+Planets
+https://assetstore.unity.com/packages/vfx/shaders/customizable-planet-shaders-131872#description
+
+Space Station Corridors and Decorations (a MAJOR shoutout to this awesome asset pack!)
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
